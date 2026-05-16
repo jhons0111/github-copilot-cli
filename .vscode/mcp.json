@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "mcp-verificar-password": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@soycarlossolis/mcp-verificar-password",
+            ]
+        },
+        "mcp-security-audit": {
+            "url": "https://mcp-security-audit--eren-solutions.run.tools"
+        }
+    }
+}

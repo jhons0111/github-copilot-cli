@@ -45,9 +45,6 @@ public/build/
 # ========================
 # Editores e IDEs
 # ========================
-.vscode/
-!.vscode/extensions.json
-!.vscode/settings.json
 .idea/
 *.suo
 *.ntvs*

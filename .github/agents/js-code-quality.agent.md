@@ -1,6 +1,6 @@
 ---
 description: analiza archivos JavaScript y reporta problemas de calidad como malas prácticas, código duplicado o funciones demasiado extensas.
-tools: [read_file, search, grep, list_files]
+tools: [read, search, web]
 ---
 
 # Agente de Calidad de Código JavaScript
